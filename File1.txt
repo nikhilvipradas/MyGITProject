@@ -3,7 +3,3 @@ This is my first git handson.
 This is change 1 in the file.
 
 change 2
-
-change 3
-
-change 4
