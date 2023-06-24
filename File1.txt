@@ -6,4 +6,8 @@ Change - 2
 
 Change - 3 | | Change - 4
 
+<<<<<<< HEAD
 Change 5-----> :: ----> master
+=======
+Change 5  ----> This change is on idea
+>>>>>>> idea
